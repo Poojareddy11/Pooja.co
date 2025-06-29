@@ -9,7 +9,7 @@ Pooja.co bridges the gap between design and development by converting Figma desi
 
 ## Demo
 
-Check out the live demo: [Pooja.co Demo](https://next-ecommerce-Pooja.co.vercel.app/)
+Check out the live demo: [Pooja.co Demo](https://pooja-co.vercel.app/)
 
 <!-- [![Pooja.co Screenshot](https://github.com/mohammadoftadeh/repo-assets/blob/main/Pooja.co-cover.png?raw=true)](https://next-ecommerce-Pooja.co.vercel.app/) -->
 
