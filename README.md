@@ -42,7 +42,7 @@ To get started with Pooja.co locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/mohammadoftadeh/next-ecommerce-Pooja.co.git
+   git clone https://github.com/Poojareddy11/Pooja.co.git
    cd next-ecommerce-Pooja.co
    ```
 
